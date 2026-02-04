@@ -15,13 +15,7 @@ status:
   icon: "☕"
 role: Senior QCD Research Scientist
 bio: |
-  Strategic Mathematical Modeling ● Advanced System Simulations ● Published Researcher
-  Highly analytical Physicist with a robust foundation in Theoretical, Nuclear, and Plasma 
-  Physics. With a career spanning multiple M.Sc. degrees from top Swedish and Iranian institutions, 
-  I specialize in bridging the gap between complex theoretical frameworks and practical computational 
-  applications. My expertise lies in developing high-fidelity simulations—using PIC, Monte Carlo, 
-  and Molecular Dynamics—to investigate the linear and non-linear properties of dynamic physical systems. 
-  I am a published author in journals such as the International Journal of Modern Physics B.
+  Strategic Mathematical Modeling
 affiliations:
   - name: Meta AI
     url: https://ai.meta.com/
