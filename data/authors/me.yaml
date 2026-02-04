@@ -25,7 +25,13 @@ bio: |
   of dynamic physical systems. ​I am a published author in journals such 
   as the International Journal of Modern Physics B, where I have 
   contributed to the understanding of statistical physics, binary hard 
-  sphere mixtures, and quantum perturbation theory.
+  sphere mixtures, and quantum perturbation theory. By combining rigorous 
+  mathematical modeling with advanced software development in C++,
+  Fortran, and Python, I deliver high-quality analytical solutions for 
+  complex equations using iterative solvers like GMRES and BICGSTAB.
+  Whether driving academic research or consulting on technical nuclear 
+  systems, I am dedicated to pushing the boundaries of applied physics 
+  through algorithmic innovation and data-driven insights.
 
 affiliations:
   - name: Meta AI
