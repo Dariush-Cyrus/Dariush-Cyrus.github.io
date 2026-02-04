@@ -42,8 +42,8 @@ Mindmaps can be created by simply writing the items as a Markdown list within th
 ```markmap {height="200px"}
 - Hugo Modules
   - Hugo Blox
-  - netlify
-  - netlify-cms
+  - Maximum performance 
+  - Efficiency 
   - slides
 ```
 </code>
