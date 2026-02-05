@@ -13,7 +13,7 @@ postnominals:
   - MIEEE
 status:
   icon: "☕️"
-  image: "me.png"
+  avatar: "static/media/me.png"
 role: QCD Research Scientist
 bio: |
   Darius Azimi Highly analytical Physicist with a robust foundation in 
