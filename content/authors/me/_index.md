@@ -1,4 +1,4 @@
-----------------------------------------
+---
 schema: hugoblox/author/v1
 slug: me
 is_owner: true
@@ -128,4 +128,4 @@ awards:
     date: "2022-12-01"
     summary: Awarded for groundbreaking work on efficient training of large models.
     icon: hero/trophy
-----------------------------------------
+---
