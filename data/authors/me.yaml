@@ -65,8 +65,8 @@ education:
     end: 2017-01-30
   - degree: MS Physics
     institution: Umea University
-    start: 2015-09-01
-    end: 2017-01-30
+    start: 2017-02-17
+    end: 2019-06-15
     summary: |
       Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
     button:
