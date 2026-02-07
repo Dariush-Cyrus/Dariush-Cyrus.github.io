@@ -62,11 +62,11 @@ education:
   - degree: MS Computational Physics
     institution: Stocholm University
     start: 2015-09-01
-    end: 2017-01-30
+    end: 2017-12-30
   - degree: MS Theoretical & Physics
     institution: Umea University
-    start: 2017-02-17
-    end: 2018-07-30
+    start: 2018-02-17
+    end: 2019-07-15
     summary: |
       Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
     button:
