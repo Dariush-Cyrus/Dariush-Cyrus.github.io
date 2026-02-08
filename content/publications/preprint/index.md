@@ -31,8 +31,8 @@ hugoblox:
     arxiv: 1512.04133v1
 
 links:
-- type: preprint
-  provider: arxiv
+- type: published
+  provider: IJMP B
   id: 1512.04133v1
 - type: code
   url: https://github.com/HugoBlox/kit
@@ -48,7 +48,7 @@ links:
   url: https://youtube.com
 - type: custom
   label: Custom Link
-  url: http://example.org
+  url: https://doi.org/10.1142/S0217979212501032
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
