@@ -16,7 +16,7 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In this paper, we have investigated thermodynamic parameters of hydrogen and helium fluid mixture with assistance of statistical perturbation theory. The results have been compared with existing theoretical and Monte Carlo simulation methods based. Moreover, the effects of density, temperature and helium concentration on equation of state (EOS) of this mixture have been considered. Likewise, since exp-6 potential has given better results in comparison with MC simulations in higher temperatures than double Yukawa potential and avoiding any vague speculation, comparison between effects of these potentials has been presented. The results further suggest that EOS in this place depends sensitively on the density, the potential function and concentration of each component.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
