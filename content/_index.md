@@ -44,7 +44,7 @@ sections:
       text: |-
         I am a physicist driven by a lifelong curiosity about how the world works at its most fundamental level. My academic journey has allowed me to explore several fascinating fields—from the statistical study of hard sphere mixtures to the intricate dynamics of plasma physics. moonshots.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I apply My work generally focuses on Computational Modeling and Theoretical Analysis. Rather than just looking for answers, I enjoy the process of building the tools using C++, Fortran, and Python that help us simulate and understand complex physical systems. economy.
 
         Please reach out to collaborate 😃
     design:
