@@ -46,9 +46,9 @@ sections:
 
         My work generally focuses on Computational Modeling and Theoretical Analysis. Rather than just looking for answers, I enjoy the process of building the tools using C++, Fortran, and Python that help us simulate and understand complex physical systems.
         Currently, my research interests include:
-          • lipsum upsim
-          • lipsum upsim
-          • lipsum upsim
+          • Simulating Dynamic Systems: Using methods like Particle-in-Cell                 (PIC) and Molecular Dynamics to explore how physical processes                  evolve over time.
+          • Numerical Problem Solving: Applying mathematical methods (such as               GMRES and Conjugate Gradient) to solve the challenging equations                that define our physical world.
+          • Continuous Learning: While I have published work regarding                      hydrogen-helium mixtures and perturbation theory, I am currently                enjoying the challenge of expanding my knowledge into theoretical               physics.
 
         Please reach out to collaborate 😃
     design:
