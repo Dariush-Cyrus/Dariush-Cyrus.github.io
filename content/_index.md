@@ -46,7 +46,7 @@ sections:
 
         My work generally focuses on Computational Modeling and Theoretical Analysis. Rather than just looking for answers, I enjoy the process of building the tools using C++, Fortran, and Python that help us simulate and understand complex physical systems.
         Currently, my research interests include:
-lipsum upsim 
+            lipsum upsim 
 
         Please reach out to collaborate 😃
     design:
