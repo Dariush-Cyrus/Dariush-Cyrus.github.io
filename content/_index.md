@@ -45,12 +45,15 @@ sections:
         I am a physicist driven by a lifelong curiosity about how the world works at its most fundamental level. My academic journey has allowed me to explore several fascinating fields—from the statistical study of hard sphere mixtures to the intricate dynamics of plasma physics. moonshots.
 
         My work generally focuses on Computational Modeling and Theoretical Analysis. Rather than just looking for answers, I enjoy the process of building the tools using C++, Fortran, and Python that help us simulate and understand complex physical systems.
+    
         Currently, my research interests include:
+    
         • Simulating Dynamic Systems: Using methods like Particle-in-Cell                 (PIC) and Molecular Dynamics to explore how physical processes                  evolve over time.
     
-         • Numerical Problem Solving: Applying mathematical methods (such as               GMRES and Conjugate Gradient) to solve the challenging equations                that define our physical world.
+        • Numerical Problem Solving: Applying mathematical methods (such as               GMRES and Conjugate Gradient) to solve the challenging equations                that define our physical world.
     
-          • Continuous Learning: While I have published work regarding                      hydrogen-helium mixtures and perturbation theory, I am currently                enjoying the challenge of expanding my knowledge into theoretical               physics.
+        • Continuous Learning: While I have published work regarding                      hydrogen-helium mixtures and perturbation theory, I am currently                enjoying the challenge of expanding my knowledge into theoretical               physics.
+    
         I believe that the best science happens through shared ideas and constant learning. I am always eager to connect with others who are passionate about physics, coding, or solving difficult analytical puzzles.
 
         Please reach out to collaborate 😃
