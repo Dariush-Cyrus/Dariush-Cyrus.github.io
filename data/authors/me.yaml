@@ -1,5 +1,6 @@
 schema: hugoblox/author/v1
 slug: me
+title: "Professional Summary"
 is_owner: true
 name:
   display: Dariush Azimi 
