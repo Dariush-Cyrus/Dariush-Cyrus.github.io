@@ -42,7 +42,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-<div style="text-align: justify;">
+        <div style="text-align: justify;">
     
         I am a physicist driven by a lifelong curiosity about how the world works at its most fundamental level. My academic journey has allowed me to explore several fascinating fields—from the statistical study of hard sphere mixtures to the intricate dynamics of plasma physics. moonshots.
 
@@ -59,7 +59,7 @@ sections:
         I believe that the best science happens through shared ideas and constant learning. I am always eager to connect with others who are passionate about physics, coding, or solving difficult analytical puzzles.
 
         Please reach out to collaborate 😃
-</div>
+        </div>
     design:
       columns: '1'
   - block: collection
