@@ -42,7 +42,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use haloi haloi haloi this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        Use I am a physicist driven by a lifelong curiosity about how the world works at its most fundamental level. My academic journey has allowed me to explore several fascinating fields—from the statistical study of hard sphere mixtures to the intricate dynamics of plasma physics. moonshots.
 
         I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
 
