@@ -30,7 +30,7 @@ publication_short: In *ICW*
 abstract: Fluid perturbation theory serves as an effective framework for calculating the Equation of State (EOS) for binary mixtures across a broad range of temperatures and pressures. In this study, the constituent species are modeled using a pair potential that accounts for short-range repulsion and long-range attraction, incorporated via a Buckingham exp-6 potential.
 
 # Summary. An optional shortened abstract.
-summary: Lorem Fluid perturbation theory serves as an effective framework for calculating the Equation of State (EOS) for binary mixtures across a broad range of temperatures and pressures. In this study, the constituent species are modeled using a pair potential that accounts for short-range repulsion and long-range attraction, incorporated via a Buckingham exp-6 potential.
+summary: Lorem Fluid perturbation theory serves as an effective framework for calculating the Equation of State (EOS) for binary mixtures across a broad range of temperatures and pressures.
 
 tags:
   - Fundumental and statistical physics
