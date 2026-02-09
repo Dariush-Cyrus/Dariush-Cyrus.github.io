@@ -6,7 +6,7 @@ title: 'FLUID MIXTURE PERTURBATION THEORY BASED ON EXP-6 HARDSPHERE SYSTEM'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - me
-  - Robert Ford
+  - S. M. Motevalli
 
 # Author notes (optional)
 author_notes:
@@ -27,7 +27,11 @@ publication_types: ['paper-conference']
 publication: In *HugoBlox Kit Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The fluid perturbation theory is a good choice for calculating the equation of state (EOS) of binary mixture at wide range of
+temperature and pressure. The constituent spices are considered to be interacting via a pair potential consisting of short range repulsion
+andalongrangattractionwhichhasbeenincludedthroughaBuckinghamexp-6.ܦ andܶ arelightelementstherefore,thequantumeffect ଶଶ
+is included via first order quantum correction in the frame work of Wigner-Kirkwood expansion. In this article we have used an advanced type of EOS. We have been studied the effect of different values of pressure and temperature on the properties of ܦ ൅ ܶ fluid mixture
+based on statistical mechanical perturbation theory. Finally, the EOS of ܦ ൅ ܶ fluid mixtures has been predicted over a wide range of pressure and temperature in reduced density.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
