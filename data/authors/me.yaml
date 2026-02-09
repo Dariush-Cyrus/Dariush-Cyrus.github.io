@@ -41,6 +41,8 @@ bio: |
 affiliations:
   - name: ''
     url: https://ai.meta.com/
+address:
+    city: Edinburg
 
 links:
   - icon: at-symbol
