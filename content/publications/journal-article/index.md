@@ -2,7 +2,7 @@
 title: "Effects of Isotopic Concentrations on Thermodynamic Parameters of Deuterium-Tritium Mixtures"
 authors:
 - me
-- Robert Ford
+- S. M. Motevalli
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
