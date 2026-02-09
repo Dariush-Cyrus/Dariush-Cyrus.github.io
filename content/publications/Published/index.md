@@ -17,7 +17,7 @@ publishDate: "2016-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Communications in Theoretical Physics, Volume 60, Number 1*(1)"
+publication: "*Volume 71, pages 279–283*(1)"
 publication_short: ""
 
 abstract: In this study, thermodynamic instabilities in hydrogen-helium fluid mixture have been analyzed. These kinds of investigations are inevitable for indicating hydrodynamic transitions in Hydrogen-Helium fluid mixture. Therefore, first we have derived equation of state of mixture via Barker-Henderson statistical perturbation theory. Moreover, we have used Yiping radial distribution function in calculating perturbed terms. Via equation of state, we have calculated excess Gibbs free energy and the Gibbs free energy in the long wavelength limit. By means of this energy in hand we could estimate degree of hetero-coordination and segregations of this mixture which is a measure for defining thermodynamic instabilities. At last, these measurements have made us capable of anticipating thermodynamic instabilities and coordination of mixture in different concentrations.
