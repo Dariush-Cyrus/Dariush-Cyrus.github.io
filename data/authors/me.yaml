@@ -39,10 +39,8 @@ bio: |
   </div>
 
 affiliations:
-  - name: ''
+  - name: Gothenburg
     url: https://ai.meta.com/
-work_address:
-    city: Edinburg
 
 links:
   - icon: at-symbol
@@ -58,6 +56,8 @@ links:
     url: https://scholar.google.com/citations?user=example
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-1825-0097
+work_address:
+    city: Edinburg
 
 interests:
   - Theoretical physics
