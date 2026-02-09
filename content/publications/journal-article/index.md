@@ -31,7 +31,7 @@ featured: false
 
 hugoblox:
   ids:
-    arxiv: 1512.04133v1
+    DOI: 10.1088/0253-6102/60/1/15
 
 links:
   - type: pdf
