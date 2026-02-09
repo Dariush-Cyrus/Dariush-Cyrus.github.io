@@ -1,5 +1,5 @@
 ---
-title: ' A hard example conference paper'
+title: 'FLUID MIXTURE PERTURBATION THEORY BASED ON EXP-6 HARDSPHERE SYSTEM'
 
 # Authors
 # If you created a profile for a user (e.g. the default `me` user), write the username (folder name) here
