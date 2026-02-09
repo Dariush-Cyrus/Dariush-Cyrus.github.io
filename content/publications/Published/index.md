@@ -1,5 +1,5 @@
 ---
-title: "Effects effect of effect of Isotopic Concentrations on Thermodynamic Parameters of Deuterium-Tritium Mixtures"
+title: "Survey of segregation alteration of hydrogen-helium mixtures via structure factor"
 authors:
 - me
 - Robert Ford
