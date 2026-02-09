@@ -1,5 +1,5 @@
 ---
-title: "Effects of Isotopic Concentrations on Thermodynamic Parameters of Deuterium-Tritium Mixtures"
+title: "Effects effect of effect of Isotopic Concentrations on Thermodynamic Parameters of Deuterium-Tritium Mixtures"
 authors:
 - me
 - Robert Ford
