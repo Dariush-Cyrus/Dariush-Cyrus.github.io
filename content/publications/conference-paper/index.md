@@ -27,11 +27,7 @@ publication_types: ['paper-conference']
 publication: In *HugoBlox Kit Conference*
 publication_short: In *ICW*
 
-abstract: The fluid perturbation theory is a good choice for calculating the equation of state (EOS) of binary mixture at wide range of
-temperature and pressure. The constituent spices are considered to be interacting via a pair potential consisting of short range repulsion
-and a long rang attraction which has been included through a Buckinghamexp-6. andܶ arelightelementstherefore,thequantumeffect
-is included via first order quantum correction in the frame work of Wigner-Kirkwood expansion. In this article we have used an advanced type of EOS. We have been studied the effect of different values of pressure and temperature on the properties of fluid mixture
-based on statistical mechanical perturbation theory. Finally, the EOS of ൅ ܶ fluid mixtures has been predicted over a wide range of pressure and temperature in reduced density.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
