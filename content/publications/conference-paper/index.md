@@ -28,7 +28,6 @@ publication: In *HugoBlox Kit Conference*
 publication_short: In *ICW*
 
 abstract: Fluid perturbation theory serves as an effective framework for calculating the Equation of State (EOS) for binary mixtures across a broad range of temperatures and pressures. In this study, the constituent species are modeled using a pair potential that accounts for short-range repulsion and long-range attraction, incorporated via a Buckingham exp-6 potential.
-Given that D_2 and T_2 are light elements, quantum effects are addressed using a first-order quantum correction within the Wigner-Kirkwood expansion framework. Utilizing an advanced EOS model and statistical mechanical perturbation theory, we investigate the influence of varying pressure and temperature on the properties of D_2 + T_2 fluid mixtures. Finally, the EOS for these mixtures is predicted across an extensive range of pressures, temperatures, and reduced densities.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
