@@ -33,7 +33,7 @@ abstract: The fluid perturbation theory is a good choice for calculating the equ
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Large Language Models
+  - Fundumental and statistical physics
 
 # Display this page in the Featured widget?
 featured: true
