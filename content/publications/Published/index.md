@@ -2,7 +2,7 @@
 title: "Survey of segregation alteration of hydrogen-helium mixtures via structure factor"
 authors:
 - me
-- Robert Ford
+- S. M. Motevalli
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
