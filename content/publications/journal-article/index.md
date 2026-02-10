@@ -27,7 +27,7 @@ summary: Thermodynamic estimation is still too much requested for scientific app
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 hugoblox:
   ids:
