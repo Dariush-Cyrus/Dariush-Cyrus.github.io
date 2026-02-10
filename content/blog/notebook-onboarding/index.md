@@ -1,5 +1,5 @@
 ---
-title: ⚡️ Turn Jupyter Notebooks into Blog Posts
+title: ⚡️ Highlighting My Foundation in Theoretical Physics
 summary: Publish your data science and research directly from Jupyter Notebooks. No screenshots required.
 date: 2024-07-15
 authors:
