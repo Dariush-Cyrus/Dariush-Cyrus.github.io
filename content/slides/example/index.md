@@ -44,7 +44,7 @@ slides:
 
 
 <!-- no-branding -->
-# Example Talk
+# Light elements pressurized mixtures
 ### Dariush Azimi · Statistical Physics
 
 ---
