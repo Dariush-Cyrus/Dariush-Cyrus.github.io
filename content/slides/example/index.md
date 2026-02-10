@@ -45,7 +45,7 @@ slides:
 
 <!-- no-branding -->
 # Example Talk
-### Dr. Alex Johnson · Meta AI
+### Dariush Azimi · Statistical Physics
 
 ---
 
