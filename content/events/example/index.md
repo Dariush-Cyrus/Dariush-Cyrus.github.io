@@ -2,7 +2,7 @@
 title: "Study of Thermodynamic Parameters of Hydrogen Isotopes Mixture in a Wide Range of Densities"
 date: '2012-01-01T00:00:00Z'
 
-event_name: HugoBlox Showcase
+event_name: Iran's annual physics conference
 event_url: https://hugoblox.com
 
 location: Online & In-Person
