@@ -28,8 +28,8 @@ publication: In *3rd Universiti Teknologi MARA, Pulau Pinang, MALAYSIA Internati
 publication_short: In *ICW*
 
 abstract: |
- <div style="text-align: justify;">
- Fluid perturbation theory serves as an effective framework for calculating the   Equation of State (EOS) for binary mixtures across a broad range of              temperatures and pressures. In this study, the constituent species are modeled   using a pair potential that accounts for short-range repulsion and long-range    attraction, incorporated via a Buckingham exp-6 potential. Given that            D<sub>2</sub> and T<sub>2</sub> are light elements, quantum effects are          addressed using a first-order quantum correction within the Wigner-Kirkwood      expansion framework. Utilizing an advanced EOS model and statistical mechanical  perturbation theory, we investigate the influence of varying pressure and        temperature on the properties of D<sub>2</sub> + T<sub>2</sub> fluid mixtures.   Finally, the EOS for these mixtures is predicted across an extensive range of    pressures, temperatures, and reduced densities.
+  <div style="text-align: justify;">
+  Fluid perturbation theory serves as an effective framework for calculating the   Equation of State (EOS) for binary mixtures across a broad range of              temperatures and pressures. In this study, the constituent species are modeled   using a pair potential that accounts for short-range repulsion and long-range    attraction, incorporated via a Buckingham exp-6 potential. Given that            D<sub>2</sub> and T<sub>2</sub> are light elements, quantum effects are          addressed using a first-order quantum correction within the Wigner-Kirkwood      expansion framework. Utilizing an advanced EOS model and statistical             mechanical  perturbation theory, we investigate the influence of varying         pressure and temperature on the properties of D<sub>2</sub> + T<sub>2</sub>      fluid mixtures.   Finally, the EOS for these mixtures is predicted across an     extensive range of    pressures, temperatures, and reduced densities.
  
 
 # Summary. An optional shortened abstract.
