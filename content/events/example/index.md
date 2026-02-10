@@ -7,19 +7,19 @@ event_url: https://hugoblox.com
 
 location: Online & In-Person
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: ''
+  city: Urmia University
+  region: ''
+  postcode: ''
+  country: Iran
 
 summary: Discover how to create stunning, interactive presentations using simple Markdown — no PowerPoint, Keynote, or vendor lock-in required.
 abstract: |
   Structure of hydrogen isotopes mixture is similar. Therefore, there is no difference between interacting potentials of these components. In this investigation, we used Buckingham potential and quantum correction in terms of Wigner-Kirkwood expansion because hydrogen isotopes are the lightest elements. Eventually, we investigated effects of various values of density on pressure and internal energy.
 
 # Talk start and end times.
-event_start: '2030-06-01T13:00:00Z'
-event_end: '2030-06-01T15:00:00Z'
+event_start: '2012-06-01T13:00:00Z'
+event_end: '2012-06-01T15:00:00Z'
 event_all_day: false
 
 authors:
@@ -34,7 +34,7 @@ tags:
 featured: true
 
 image:
-  caption: 'Presentation freedom with Markdown'
+  caption: 'Presentation freedom with'
   focal_point: Right
 
 links:
