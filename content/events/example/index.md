@@ -15,7 +15,7 @@ address:
 
 summary: Discover how to create stunning, interactive presentations using simple Markdown — no PowerPoint, Keynote, or vendor lock-in required.
 abstract: |
-  Join us to explore HugoBlox's revolutionary Markdown-based slide system. Create beautiful presentations with code syntax highlighting, math equations, animations, and dual-column layouts. Edit your slides in any text editor, version control them with Git, and present them anywhere with just a browser. Experience true presentation freedom.
+  Structure of hydrogen isotopes mixture is similar. Therefore, there is no difference between interacting potentials of these components. In this investigation, we used Buckingham potential and quantum correction in terms of Wigner-Kirkwood expansion because hydrogen isotopes are the lightest elements. Eventually, we investigated effects of various values of density on pressure and internal energy.
 
 # Talk start and end times.
 event_start: '2030-06-01T13:00:00Z'
