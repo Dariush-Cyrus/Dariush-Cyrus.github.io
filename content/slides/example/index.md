@@ -1,6 +1,6 @@
 ---
-title: "Example Talk: Recent Work"
-date: 2024-01-01
+title: "Light elements pressurized mixtures: Recent Work"
+date: 2012-01-01
 # `type: slides` is inferred from folder, but can be set explicitly:
 type: slides
 summary: "A quick tour of recent research highlights: multimodal LLMs, efficient training, and responsible AI."
