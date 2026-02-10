@@ -24,9 +24,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *3rd
-Universiti Teknologi MARA, Pulau Pinang, MALAYSIA
-International Conference on Science & Technology: *
+publication: In *3rd Universiti Teknologi MARA, Pulau Pinang, MALAYSIA International Conference on Science & Technology:*
 publication_short: In *ICW*
 
 abstract: |
