@@ -22,7 +22,7 @@ content_meta:
 
 I’ve updated my research profile to highlight my ongoing interests in Theoretical Physics and Lattice QCD. My experience with these fundamental frameworks—particularly in handling complex computational models and non-perturbative phenomena—forms the backbone of my approach to solving intricate problems in nuclear science and fluid perturbation theory.
 
-Hugo Blox changes that. With the `{{</* notebook */>}}` shortcode, you can render your actual `.ipynb` files directly as beautiful, interactive blog posts or project pages. Keep your code, outputs, and narrative in one place.
+My foundation remains rooted in Theoretical Physics. I find that the rigorous mathematical discipline required for QCD simulations provides a unique advantage when calculating first-order quantum corrections for applications. It's all about understanding the fundamental forces to predict real-world behavior.
 
 {{< toc mobile_only=true is_open=true >}}
 
