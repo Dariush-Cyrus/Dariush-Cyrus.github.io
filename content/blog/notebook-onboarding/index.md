@@ -1,14 +1,13 @@
 ---
 title: ⚡️ Highlighting My Foundation in Theoretical Physics
-summary: Publish your data science and research directly from Jupyter Notebooks. No screenshots required.
-date: 2024-07-15
+summary: I have updated my research profile to highlight my ongoing interests in Theoretical Physics and QCD. My experience with these fundamental frameworks—particularly in handling complex computational models and non-perturbative phenomena—forms the backbone of my approach to solving intricate problems in subatomivpc science and fluid perturbation theory..
+date: 2026-02-10
 authors:
   - me
 tags:
-  - Hugo Blox
-  - Jupyter
-  - Open Science
-  - Tutorials
+  - Theoretical Physics
+  - QCD simulation
+  - Professional Update
 cover:
   # image: cover.jpg  # Auto-detected from cover image in this folder
   icon:
