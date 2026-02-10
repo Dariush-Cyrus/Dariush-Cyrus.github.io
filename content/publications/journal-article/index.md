@@ -20,7 +20,10 @@ publication_types: ["article-journal"]
 publication: "*Communications in Theoretical Physics, Volume 60, Number 1*(1)"
 publication_short: ""
 
-abstract: Thermodynamic estimation is still too much requested for scientific applications in spite of great advances in simulation methods for efficient determination of phase equilibrium of multi-component systems. In this work, thermodynamic properties of deuterium-tritium mixture in a wide range of temperatures and pressures have been predicted. Buckingham exp-6 potential has been utilized in calculations, based on statistical perturbation theory. The effects of various values of density, temperature and isotopic concentrations on pressure have been studied. Eventually, we have found out symmetrical effects of tritium concentration in deuterium-tritium mixtures.
+abstract: |
+  <div style="text-align: justify;">
+  Thermodynamic estimation is still too much requested for scientific applications in spite of great advances in simulation   methods for efficient determination of phase equilibrium of multi-component systems. In this work, thermodynamic     properties of deuterium-tritium mixture in a wide range of temperatures and pressures have been predicted. Buckingham   exp-  6 potential has been utilized in calculations, based on statistical perturbation theory. The effects of various   values of   density, temperature and isotopic concentrations on pressure have been studied. Eventually, we have found out   symmetrical   effects of tritium concentration in deuterium-tritium mixtures.
+  </div>
 
 # Summary. An optional shortened abstract.
 summary: Thermodynamic estimation is still too much requested for scientific applications in spite of great advances in simulation methods for efficient determination of phase equilibrium of multi-component systems. In this work, thermodynamic properties of deuterium-tritium mixture in a wide range of temperatures and pressures have been predicted. Buckingham exp-6 potential has been utilized in calculations, based on statistical perturbation theory. The effects of various values of density, temperature and isotopic concentrations on pressure have been studied. Eventually, we have found out symmetrical effects of tritium concentration in deuterium-tritium mixtures.
