@@ -6,7 +6,7 @@ title: 'FLUID MIXTURE PERTURBATION THEORY BASED ON EXP-6 HARDSPHERE SYSTEM'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - me
-  - S. M. Motevalli
+  - D. Aximi, S. M. Motevalli
 
 # Author notes (optional)
 author_notes:
