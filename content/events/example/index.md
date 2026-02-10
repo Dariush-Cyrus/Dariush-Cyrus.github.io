@@ -26,7 +26,7 @@ authors:
   - me
 
 tags:
-  - Markdown
+  - Physics
   - Presentations
   - Open Science
   - Academic
