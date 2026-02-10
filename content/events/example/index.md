@@ -3,7 +3,7 @@ title: "Study of Thermodynamic Parameters of Hydrogen Isotopes Mixture in a Wide
 date: '2012-01-01T00:00:00Z'
 
 event_name: Iran's annual physics conference
-event_url: https://hugoblox.com
+event_url: www.psi.ir
 
 location: Online & In-Person
 address:
