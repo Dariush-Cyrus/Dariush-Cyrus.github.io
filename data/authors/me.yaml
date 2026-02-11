@@ -102,12 +102,12 @@ experience:
       text: View portfolio
       url: /
       icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+  - role: Computational physics Research
+    org: Stockholm University
+    start: 2016-01-01
+    end: 2016-12-25
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Involved in the wave packet study of dissociation-recombination and ion-pair formation of HeH+. Focused on developing theoretical and computational methods for complex physical systems and data analysis, showcasing expertise in advanced simulation and data handling.
 
 skills:
   - name: Technical Skills
