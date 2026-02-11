@@ -95,6 +95,7 @@ experience:
   - role: Thesis Research
     org: Umea university
     start: 2019-01-01
+    end: 2019-06-15
     summary: |
       Wrote and developed computational models to study the linear and non-linear properties of plasma within the framework of kinetic theory. Designed and executed Particle-in-Cell (PIC) simulations using C++ and Fortran to investigate dynamic physical processes. Performed extensive data analysis and visualization using Python to interpret simulation results against theoretical frameworks.
     button:
