@@ -92,11 +92,11 @@ education:
     end: 2004-06-15
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Thesis Research
+    org: Umea university
+    start: 2019-01-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
+      Wrote and developed computational models to study the linear and non-linear properties of plasma within the framework of kinetic theory. Designed and executed Particle-in-Cell (PIC) simulations using C++ and Fortran to investigate dynamic physical processes. Performed extensive data analysis and visualization using Python to interpret simulation results against theoretical frameworks.
     button:
       text: View portfolio
       url: /
