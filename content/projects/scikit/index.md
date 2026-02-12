@@ -1,5 +1,5 @@
 ---
-title: scikit-learn
+title: Kinetic Modeling of Plasma Systems
 date: 2023-10-26
 links:
   - type: site
