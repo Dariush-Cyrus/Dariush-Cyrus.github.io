@@ -10,6 +10,9 @@ tags:
   - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Quantum Statistical Study of Hard Sphere Mixtures
+ * Context: Graduate Research at Mazandaran University.
+ * Description: Conducted a theoretical and statistical study of binary hard sphere mixtures of hydrogen isotopes. This work involved modeling material properties and phase transitions, providing a robust foundation for process optimization.
+ * Key Tech: Statistical Physics, Mathematical Modeling, Numerical Methods.
 
 <!--more-->
