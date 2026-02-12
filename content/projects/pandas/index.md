@@ -5,9 +5,9 @@ links:
   - type: site
     url: https://github.com/pandas-dev/pandas
 tags:
-  - Hugo
-  - HugoBlox
-  - Markdown
+  - Statistical physics
+  - Quantum perturbation
+  - exp-6
 ---
 
 Quantum Statistical Study of Hard Sphere Mixtures
