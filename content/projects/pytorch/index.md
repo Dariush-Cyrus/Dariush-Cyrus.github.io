@@ -10,6 +10,8 @@ tags:
   - Markdown
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+Context: Master's Thesis at Stockholm University.
+ * Description: Involved in the wave packet study of dissociation-recombination and ion-pair formation of HeH+. I focused on developing computational methods to handle complex physical systems and rigorous data analysis.
+ * Key Tech: Computational Physics, Data Handling, Modeling.
 
 <!--more-->
