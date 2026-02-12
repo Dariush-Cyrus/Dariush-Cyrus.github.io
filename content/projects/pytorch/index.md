@@ -5,9 +5,9 @@ links:
   - type: site
     url: https://github.com/pytorch/pytorch
 tags:
-  - Hugo
-  - HugoBlox
-  - Markdown
+  - Wave packet
+  - Adiabatic
+  - Tunneling
 ---
 
 Context: Master's Thesis at Stockholm University.
