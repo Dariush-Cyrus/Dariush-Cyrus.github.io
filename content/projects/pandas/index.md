@@ -1,6 +1,6 @@
 ---
-title: Pandas
-date: 2023-10-26
+title: Quantum Statistical Study of Hard Sphere Mixtures
+date: 2010-10-26
 links:
   - type: site
     url: https://github.com/pandas-dev/pandas
