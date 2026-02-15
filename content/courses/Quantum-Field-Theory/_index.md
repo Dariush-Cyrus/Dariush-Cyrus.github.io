@@ -15,7 +15,7 @@ content_meta:
   trending: false
 ---
 
-👋 Welcome to your shiny new site. Ready to learn more?
+👋 Welcome to QFT page. Ready to learn more?
 
 <!--more-->
 
