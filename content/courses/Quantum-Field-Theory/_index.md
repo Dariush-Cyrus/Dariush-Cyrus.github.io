@@ -15,11 +15,11 @@ content_meta:
   trending: false
 ---
 
-👋 Welcome to your shiny new site. Ready to learn more?
+👋 Welcome to QFT. What is QFT?
 
 <!--more-->
 
-This course provides a brief introduction to creating and editing your site with Hugo Blox. For full documentation, refer to the [Hugo Blox Documentation](https://docs.hugoblox.com/).
+Completed with Pass with Distinction (VG) at Umeå University, covering the fundamental interactions of particles and fields.
 
 ## Next
 
