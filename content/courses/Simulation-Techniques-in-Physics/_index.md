@@ -11,15 +11,15 @@ tags:
 content_meta:
   content_type: 'Course'
   difficulty: 'Advanced'
-  prerequisites: ['Mathematical physics']
+  prerequisites: ['Mathematical physics and numerical methods']
   trending: false
 ---
 
-👋 Welcome to Statistical physics page. Ready to learn more?
+👋 Welcome to Statistical techniques in physics page. Ready to learn more?
 
 <!--more-->
 
-Deep expertise in perturbation theory and the study of hard sphere mixtures, which formed the basis of several of my ISI publications.
+Specialized in Particle-in-Cell (PIC), Monte Carlo, Density functionsl theory, and Molecular Dynamics for simulating material and plasma behavior.
 
 ## Next
 
