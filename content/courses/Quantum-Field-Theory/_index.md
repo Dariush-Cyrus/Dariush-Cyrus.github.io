@@ -1,7 +1,7 @@
 ---
-linkTitle: Hugo Blox
-title: Learn Hugo Blox in 10 minutes!
-date: 2025-09-24
+linkTitle: QFT
+title: Quantum Field Theory!
+date: 2018-05-24
 type: docs
 
 tags:
@@ -10,7 +10,7 @@ tags:
 
 content_meta:
   content_type: 'Course'
-  difficulty: 'Beginner'
+  difficulty: 'Advanced'
   prerequisites: ['Markdown']
   trending: false
 ---
