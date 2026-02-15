@@ -19,7 +19,7 @@ content_meta:
 
 <!--more-->
 
-This course provides a brief introduction to creating and editing your site with Hugo Blox. For full documentation, refer to the [Hugo Blox Documentation](https://docs.hugoblox.com/).
+Completed with Pass with Distinction (VG) at Umeå University, covering the fundamental interactions of particles and fields [Hugo Blox Documentation](https://docs.hugoblox.com/).
 
 ## Next
 
