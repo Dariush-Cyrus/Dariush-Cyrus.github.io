@@ -11,7 +11,7 @@ tags:
 content_meta:
   content_type: 'Course'
   difficulty: 'Advanced'
-  prerequisites: ['Markdown']
+  prerequisites: ['Advanced Quantum Mechanics']
   trending: false
 ---
 
