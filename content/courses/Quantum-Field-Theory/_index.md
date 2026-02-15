@@ -5,7 +5,7 @@ date: 2018-09-24
 type: docs
 
 tags:
-  - Hugo Blox
+  - Field
   - Course
 
 content_meta:
