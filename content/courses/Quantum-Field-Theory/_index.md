@@ -5,13 +5,13 @@ date: 2018-05-24
 type: docs
 
 tags:
-  - Hugo Blox
-  - Course
+  - Fields
+  - Particles
 
 content_meta:
   content_type: 'Course'
   difficulty: 'Advanced'
-  prerequisites: ['Markdown']
+  prerequisites: ['Quantum Mechanics, Electromagnetic, Mathematical Physics']
   trending: false
 ---
 
