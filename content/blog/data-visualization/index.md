@@ -5,9 +5,9 @@ date: 2023-10-25
 authors:
   - me
 tags:
-  - Hugo
-  - Hugo Blox
-  - Markdown
+  - SHugo
+  - SHugo Blox
+  - Sharkdown
 cover:
   image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=2560"
   position:
