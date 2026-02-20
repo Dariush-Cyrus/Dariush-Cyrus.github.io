@@ -83,6 +83,9 @@ hugoblox:
   header:
     enable: true
     # Header style variant
+    logo:
+      file: "logo.png"
+      display_name: true
     style: navbar                       # navbar | navbar-simple | minimal
     # Stick to top on scroll
     sticky: true
