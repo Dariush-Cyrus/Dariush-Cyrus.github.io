@@ -81,8 +81,8 @@ hugoblox:
   # Site header and navigation bar
   # ────────────────────────────────────────────────────────────────────────────
   header:
-    enable: true
     # Header style variant
+    enable: true
     logo:
       file: "logo.PNG"
       display_name: true
