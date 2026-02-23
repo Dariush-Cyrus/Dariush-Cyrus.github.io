@@ -1,5 +1,5 @@
 ---
-title: "Effects of Isotopic Concentrations on Thermodynamic Parameters of Deuterium-Tritium Mixtures"
+title: "Quantum Perturbation Theory in Fluid Mixtures"
 authors:
 - me
 - S. M. Motevalli
