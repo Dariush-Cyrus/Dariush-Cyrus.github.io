@@ -17,7 +17,7 @@ publishDate: "2013-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Communications in Theoretical Physics, Volume 60, Number 1*(1)"
+publication: "*Advances in Quantum Mechanics, Intech *(1)"
 publication_short: ""
 
 abstract: |
