@@ -6,9 +6,11 @@
 en:
   languageCode: en-us
   languageName: English
+  weight: 1
 sv:
   languageCode: sv-se
   languageName: Svenska
+  weight: 2
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
