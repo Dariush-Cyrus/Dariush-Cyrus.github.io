@@ -20,7 +20,7 @@ bio: |
   
   Darius Azimi is a highly analytical Physicist with a robust foundation in 
   Theoretical, subatomic, and Plasma Physics. With a career spanning 
-  multiple M.Sc. degrees from top Swedish and Iranian institutions, I 
+  multiple M.Sc. degrees from top Swedish and Iranian institution, I 
   specialize in bridging the gap between complex theoretical frameworks
   and practical computational applications. My expertise lies in 
   developing high-fidelity simulations—using PIC, Monte Carlo, and 
@@ -138,6 +138,8 @@ experience:
     end: 2013-01-15
     summary: |
       Taught students in General Physics fundamentals and its applications. I was responsible for simplifying complex theoretical concepts into actionable knowledge, bridging the gap between mathematical theory and practical application
+      - Analyse
+      - Problemsolving
     button:
       text: View portfolio
       url: /
