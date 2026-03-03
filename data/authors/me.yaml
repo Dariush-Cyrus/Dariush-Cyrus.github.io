@@ -146,6 +146,16 @@ experience:
       text: View portfolio
       url: /
       icon: hero/arrow-down-tray
+  - role: Teacher substitute
+    org: Lararepoolen
+    start: 2023-10-15
+    end: 2024-06-00
+    summary: |
+      Provided hands-on technical support and instruction, guiding students through practical experiments and troubleshooting electrical equipment. Communicated complex scientific concepts clearly to diverse audiences, fostering a deeper understanding of electrical engineering principles.
+    button:
+      text: View portfolio
+      url: /
+      icon: hero/arrow-down-tray
 skills:
   - name: Technical Skills
     items:
