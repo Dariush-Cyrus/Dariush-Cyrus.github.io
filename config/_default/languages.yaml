@@ -5,7 +5,10 @@
 # Default language
 en:
   languageCode: en-us
-  languageName: Englis
+  languageName: English
+sv:
+  languageCode: sv-se
+  languageName: Svenska
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
