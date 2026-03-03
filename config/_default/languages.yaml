@@ -6,6 +6,8 @@
 en:
   languageCode: en-us
   languageName: English
+  wight: 1
+  contentDir: content/en
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
