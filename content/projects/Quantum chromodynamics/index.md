@@ -10,6 +10,6 @@ tags:
   - Simulation
 ---
 
-simulation of subatomic syatem in a non perturbative  approach. It has many  many parts and a field still under research and development
+simulation of subatomic system in a non perturbative  approach. It has many  many parts and a field still under research and development
 
 <!--more-->
