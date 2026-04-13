@@ -10,6 +10,6 @@ tags:
   - Simulation
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+simulation of subatomic syatem in a non perturbative  approach. It has many  many parts and a field still under research and development
 
 <!--more-->
