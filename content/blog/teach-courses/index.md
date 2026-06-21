@@ -48,11 +48,11 @@ You can also use the default view by omitting the view parameter:
 
 Teach your course by sharing videos with your students. Choose from one of the following approaches:
 
-**Youtube**:
+**Youtube**: # D2vj0WcvH5c
 
-    {{</* youtube D2vj0WcvH5c */>}}
+    {{</* youtube V1Lxp-Q6Y9g */>}}
 
-{{< youtube D2vj0WcvH5c >}}
+{{< youtube V1Lxp-Q6Y9g >}}
 
 **Bilibili**:
 
