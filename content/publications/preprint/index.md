@@ -76,11 +76,10 @@ slides: ""
 
 Teach your course by sharing videos with your students. Choose from one of the following approaches:
 
-**Youtube**: # D2vj0WcvH5c
-
-    {{</* youtube V1Lxp-Q6Y9g */>}}
+**Youtube**:
 
 {{< youtube V1Lxp-Q6Y9g >}}
+
 This work is driven by the results in my [previous paper](/publications/conference-paper/) on LLMs.
 
 > [!NOTE]
