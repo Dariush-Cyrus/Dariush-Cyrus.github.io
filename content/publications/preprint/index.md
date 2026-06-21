@@ -72,11 +72,18 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+## Video
 
+Teach your course by sharing videos with your students. Choose from one of the following approaches:
+
+**Youtube**: # D2vj0WcvH5c
+
+    {{</* youtube V1Lxp-Q6Y9g */>}}
+
+{{< youtube V1Lxp-Q6Y9g >}}
 This work is driven by the results in my [previous paper](/publications/conference-paper/) on LLMs.
 
 > [!NOTE]
 > Create your slides in Markdown - click the *Slides* button to check out the example.
-{{</* youtube V1Lxp-Q6Y9g */>}}
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
